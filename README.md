@@ -7,7 +7,7 @@ extracting data from a REST API, transforming it into a structured format, and s
 - Python
 - Requests
 - Pandas
-- PyArrow (Parquet)
+- PyArrow 
 
 What this project does
 - Consumes a public REST API
